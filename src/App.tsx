@@ -105,7 +105,7 @@ export default function App() {
       {/* Top Bar */}
       <div className="flex justify-between items-center p-6">
         <h1 className="text-xl font-bold text-red-500">
-          Voting DApp – GDG
+          Voting DApp – SAGE
         </h1>
         {isConnected && (
           <button
